@@ -1,2 +1,2 @@
 # FOSS_Sample
-Foss Workshop Sample
+Foss Workshop Clube
